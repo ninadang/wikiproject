@@ -7,4 +7,5 @@ $(function() {
     $(".wrong").click(function(event) {
         alert('Sorry, that is incorrect. Please mark a tally under the ATTEMPTS section and try again.');
     });  
+
 });
