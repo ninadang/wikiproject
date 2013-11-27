@@ -1,7 +1,7 @@
 
 $(function() {
     $("#answer").click(function(event) {
-        alert('That is correct! Please circle PASSED on your sheet.');
+        alert('That is correct! Please circle PASSED on your sheet and proceed to the next page.');
     });    
 
     $("#wrong").click(function(event) {
